@@ -1,1 +1,1 @@
-# practicing-with-databases
+# Practicing with DB.
