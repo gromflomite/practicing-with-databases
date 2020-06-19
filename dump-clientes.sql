@@ -9,7 +9,7 @@ USE clientes;
 
 SELECT 
 	edo.nombre		AS "Nombre del empleado",
-	edo.apellidos 	AS "Apellidos del empleado",
+	edo.apellidos 		AS "Apellidos del empleado",
 	esa.nombre 		AS "Empresa donde trabaja",
 	sec.nombre		AS "Sector productivo"
 FROM 
